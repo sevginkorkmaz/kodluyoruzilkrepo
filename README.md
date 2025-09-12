@@ -1,32 +1,14 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+<h1>Sevgin Onurlu</h1>
 
-# Kodluyoruz İlk Repo
+<!-- acıklama yazıldı -->
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+<h3>Hakkımda</h3>
+<p>
+  Merhaba ben Sevgin Onurlu, İzmir'de yaşıyorum. Eğitimde harika şeyler
+  öğreneceğime eminim.
+</p>
 
-## Installation
-
-Öncelikle projeyi clonelayın.
-
-'''
-git clone https://github.com/sevginkorkmaz/kodluyoruzilkrepo.git
-'''
-
-## Usage
-
-Projeyi cloneladıktan sonra Visial Studio Code programında açınız.
-
-Linux için:
-'''
-cd kodluyoruzilkrepo
-code
-'''
-
-## Contributing
-
-Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
-## Licence
-
-[MIT](mit)
+<h2>Sevdiğim Diziler</h2>
+<h3>How I met your mother</h3>
+<p>Çok eğlenceli bir dizi</p>
+<p>İzlemenizi tavsiye ederim</p>
